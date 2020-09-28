@@ -2,6 +2,7 @@
 
 <img alt="screenshot" src="./screenshot.gif">
 
+(whtaevs)
 This is the search-enabled version of Gatsby Personal Starter Blog!
 
 ## 🚀 Quick start
